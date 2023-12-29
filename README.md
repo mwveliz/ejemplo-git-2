@@ -1,7 +1,5 @@
-# ejemplo-git-211
-Ejemplo de uso de gitt
+# ejemplo-git-2
+Ejemplo de uso de git
+g
 
-
-# nueva linea de prueba
-print("8*")
-
+55555555
